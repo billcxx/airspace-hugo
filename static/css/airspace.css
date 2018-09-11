@@ -291,7 +291,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #322e40;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
@@ -856,4 +856,9 @@ footer .footer-manu ul li a {
 }
 footer .footer-manu ul li a:hover {
   color: #000;
+}
+
+.bg-light {
+  background: linear-gradient(to left, #E3E3E4, #aeacb8);
+  opacity: 1;
 }
